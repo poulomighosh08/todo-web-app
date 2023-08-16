@@ -1,0 +1,3 @@
+complete day 19
+implement binary tree in python
+complete average price bug fix with code refactoring
